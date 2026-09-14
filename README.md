@@ -88,18 +88,14 @@ When the work session finishes:
 ☕ Break started!
 
 🍅 BREAK | ⏱️ 00:59
-```
 
 After the break finishes, the program asks whether to start another work session.
 
 ## 📁 Project Structure
 
-```text
 pomodoro-timer/
-│
 ├── pomodoro.py
 ├── README.md
-```
 
 ## 🎥 Demo Video
 
