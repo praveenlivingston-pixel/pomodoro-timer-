@@ -112,8 +112,8 @@ The demo video demonstrates:
 3. Transitioning from the work session to a break
 4. Viewing the completed work-session count
 
-
-
+demo:
+https://github.com/user-attachments/assets/422430c9-84ef-41c2-b624-1dfef029fd21
 
 
 ## 🎯 Project Objective
