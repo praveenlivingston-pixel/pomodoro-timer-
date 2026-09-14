@@ -98,9 +98,7 @@ After the break finishes, the program asks whether to start another work session
 pomodoro-timer/
 │
 ├── pomodoro.py
-├── requirements.txt
 ├── README.md
-└── demo.mp4
 ```
 
 ## 🎥 Demo Video
